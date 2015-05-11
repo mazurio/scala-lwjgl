@@ -1,0 +1,3 @@
+RUN
+==================
+sbt -Djava.library.path=./native/macosx
